@@ -3,6 +3,8 @@ nav_order: 0
 sort: 0
 title: Etusivu
 ---
+⚠️ **Huom.:** Tämä sivusto kuvaa vanhaa malliversiota (HELMET 4). HELMET 5 -version dokumentaatio löytyy [täältä](https://hsldevcom.github.io/helmet-docs/).
+
 # HSL:n liikenne-ennustejärjestelmän yleiskuvaus
 
 Helmet on HSL:n liikenne-ennustejärjestelmä, joka kattaa Helsingin seudun 14 kuntaa ja Siuntion sekä niitä ympäröivän työssäkäyntialueen.
